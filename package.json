@@ -1,0 +1,31 @@
+{
+  "name": "udp-units",
+  "version": "1.0.0",
+  "description": "Fast UDP Server written in NodeJS to process incoming messages from devices and register in database server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "all"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lashad/udp-units.git"
+  },
+  "keywords": [
+    "units.ge",
+    "aliengreen",
+    "mostat",
+    "gadget",
+    "device",
+    "aliengreen.ge",
+    "picktek"
+  ],
+  "author": "Lasha Dolidze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lashad/udp-units/issues"
+  },
+  "homepage": "https://github.com/lashad/udp-units#readme",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  }
+}
