@@ -10,7 +10,7 @@ Fast UDP Server written in NodeJS to process incoming messages from devices and 
         
         Methods sent by the client
         --------------------------
-        01  ACK for Set Registers OPCODE
+        01 - ACK for Set Registers OPCODE
         03 - ACK for Set Primary Key for WAN OPCODE
         05 - ACK for Set Primary Key for LAN OPCODE
         07 - ACK for Set Firmware Update Required OPCODE
