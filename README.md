@@ -24,17 +24,18 @@ Fast UDP Server written in NodeJS to process incoming messages from devices and 
         --------------------------
         C0 - Set Registers (Without confirmation)
         C1 - Set Registers (With confirmation)
-
-
-C2 - Set Primary Key for WAN (Without confirmation)
-C3 - Set Primary Key for WAN (With confirmation)
-
-C4 - Set Primary Key for LAN (Without confirmation)
-C5 - Set Primary Key for LAN (With confirmation)
-
-C6 - Set Firmware Update Required (Without confirmation)
-C7 - Set Firmware Update Required (With confirmation)
-
-C8 - Send Firmware Page (Without confirmation)
-C9 - Send Firmware Page (With confirmation)
-
+        
+        
+        C2 - Set Primary Key for WAN (Without confirmation)
+        C3 - Set Primary Key for WAN (With confirmation)
+        
+        C4 - Set Primary Key for LAN (Without confirmation)
+        C5 - Set Primary Key for LAN (With confirmation)
+        
+        C6 - Set Firmware Update Required (Without confirmation)
+        C7 - Set Firmware Update Required (With confirmation)
+        
+        C8 - Send Firmware Page (Without confirmation)
+        C9 - Send Firmware Page (With confirmation)
+        
+        
